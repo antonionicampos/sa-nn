@@ -2,6 +2,7 @@
 /.ipynb_checkpoints
 
 # Folders
+/datasets
 /images
 /results
 /material
